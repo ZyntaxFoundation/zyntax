@@ -6,7 +6,7 @@
   **The Language That Grows With You.**
   
   [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
-  [![Version](https://img.shields.io/badge/version-6.0.0-green.svg)](https://github.com/ZyntaxFoundation/zyntax)
+  [![Version](https://img.shields.io/badge/version-8.0.0-green.svg)](https://github.com/ZyntaxFoundation/zyntax)
   [![Docs](https://img.shields.io/badge/docs-zyntax.gt.tc-orange.svg)](https://zyntax.gt.tc)
 
   <p align="center">
